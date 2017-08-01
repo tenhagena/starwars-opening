@@ -44,8 +44,8 @@ html {
 }
 .deathstar {
   background: black url(../images/deathstar.png) no-repeat;
-  width: 655px;
-  height: 663px;
+  width: 657px;
+  height: 655px;
   position: absolute;
   bottom: 150px;
   right: 100px;
